@@ -11,7 +11,7 @@ import java.awt.Color;
 public class MoreRowsRunner implements Directions
 {
     public static void main(String args[])  {
-        UrRobot karel = new UrRobot(2, 1, East, 0);  
+        Harvester karel = new Harvester(2, 1, East, 0);  
        
         karel.turnOff();  
     } 

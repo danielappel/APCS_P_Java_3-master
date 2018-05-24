@@ -15,7 +15,7 @@ public class Harvester extends Robot
         //Your code goes here.
     }
     
-    private void positionForNextHarvest() {
+    public void positionForNextHarvest() {
         //Before executing this, the robot should be facing west, on the last 
         // corner of the current row.  After executing this, the robot should be facing east
         // on a corner of a row that is ready to harvest.
@@ -23,11 +23,11 @@ public class Harvester extends Robot
         //Your code goes here
     }
     
-    private void turnRight() {
+    public void turnRight() {
         //Your code goes here
     }
     
-    private void harvestOneRow() {
+    public void harvestOneRow() {
         //The robot should pick all beepers in the given row
         
         //your code goes here
@@ -38,7 +38,7 @@ public class Harvester extends Robot
         
     }
     
-    private void goToNextRow() {
+    public void goToNextRow() {
         //Before executing this, the robot should be facing East on the last corner
         // of the current row.  After executing this, the robot should be facing west
         // on the last corner of the row above it just harvested.

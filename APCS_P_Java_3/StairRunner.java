@@ -11,7 +11,7 @@ import java.awt.Color;
 public class StairRunner implements Directions
 {
     public static void main(String args[])  {
-        UrRobot karel = new UrRobot(1, 1, East, 0);  
+        SuperKarel karel = new SuperKarel(1, 1, East, 0);  
         
         karel.turnOff();  
     } 
