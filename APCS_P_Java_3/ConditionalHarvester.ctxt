@@ -1,6 +1,8 @@
 #BlueJ class context
-comment0.params=st\ av\ dir\ numBeepers
-comment0.target=ConditionalHarvester(int,\ int,\ Direction,\ int)
-comment1.params=
-comment1.target=void\ harvestCorner()
-numComments=2
+comment0.target=ConditionalHarvester
+comment0.text=\r\n\ @author\ \:\r\n\ teacher\ \:\r\n\ due\ date\:\r\n
+comment1.params=st\ av\ dir\ numBeepers
+comment1.target=ConditionalHarvester(int,\ int,\ Direction,\ int)
+comment2.params=
+comment2.target=void\ harvestCorner()
+numComments=3

@@ -33,7 +33,7 @@ public class Harvester extends Robot
         //your code goes here
     }
     
-    private void harvestCorner() {
+    public void harvestCorner() {
         //Picks up a beeper on a given corner
         
     }
