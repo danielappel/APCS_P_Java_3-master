@@ -11,11 +11,11 @@ import java.awt.Color;
 public class HarvesterDriver implements Directions
 {
     public static void main(String args[])  {
-        Harvester hellen = new Harvester(2, 2, East, 0);  
+        Harvester helen = new Harvester(2, 2, East, 0);  
         
         
         
-        hellen.turnOff();  
+        helen.turnOff();  
     } 
 
     static {
